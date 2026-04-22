@@ -1,0 +1,13 @@
+
+ This the new line
+hello tasnim
+hello shahad
+hello shrouq
+
+
+ ----------------------------------- Problems they were trying to solve in the software industry:
+1. Projects took too long and often delivered software that no longer met
+customer needs.
+2. Changing requirements were hard to handle with rigid plans.
+3. There was poor communication between developers, managers, and clients.
+4. Teams often delivered software full of bugs or that didn’t provide real value

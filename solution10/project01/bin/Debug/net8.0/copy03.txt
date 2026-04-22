@@ -1,0 +1,22 @@
+The Agile Manifesto is a document created in 2001 by a group of software
+developers who wanted to find a better way to develop software. It defines the core
+values and principles of Agile development, which emphasize flexibility,
+collaboration, and customer satisfaction.
+The Four Core Values of the Agile Manifesto:
+1. Individuals and interactions over processes and tools.
+2. Working software over comprehensive documentation.
+3. Customer collaboration over contract negotiation.
+4. Responding to change over following a plan.
+How it differs from traditional project management:
+ ----------------------------------- Problems they were trying to solve in the software industry:
+1. Projects took too long and often delivered software that no longer met
+customer needs.
+2. Changing requirements were hard to handle with rigid plans.
+3. There was poor communication between developers, managers, and clients.
+4. Teams often delivered software full of bugs or that didn’t provide real value
+ ----------------------------------- Problems they were trying to solve in the software industry:
+1. Projects took too long and often delivered software that no longer met
+customer needs.
+2. Changing requirements were hard to handle with rigid plans.
+3. There was poor communication between developers, managers, and clients.
+4. Teams often delivered software full of bugs or that didn’t provide real value

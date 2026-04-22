@@ -1,0 +1,5 @@
+Which method is the entry point of a C# program?
+a) Start()
+b) Main()
+c) Run()
+d) Init()

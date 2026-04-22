@@ -1,0 +1,5 @@
+Which keyword is used to define a class in C#?
+a) define
+b) class
+c) object
+d) struct
